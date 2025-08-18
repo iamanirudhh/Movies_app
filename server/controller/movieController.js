@@ -1,6 +1,6 @@
 
 
-import { MovieModel } from "../model/MovieModel.js";
+import { MovieModel } from "../model/movieAppModel.js";
 
 // Get all movies
 const getMoviesData = async (req, res) => {

@@ -1,5 +1,5 @@
 import { BookingModel } from "../model/bookingModel.js";
-import { MovieModel } from "../model/MovieModel.js";
+import { MovieModel } from "../model/movieAppModel.js";
 import { UserModel } from "../model/userModel.js";
 
 // Create a new booking
