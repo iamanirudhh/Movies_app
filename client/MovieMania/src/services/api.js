@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with base configuration
 const API = axios.create({
-  baseURL: 'http://localhost:3000/api',
+  baseURL: 'https://movies-app-okpd.onrender.com/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
